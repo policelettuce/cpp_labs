@@ -1,0 +1,114 @@
+Default constructor called
+Parametrized constructor called, int value 2 str value Two
+Parametrized constructor called, int value 3 str value Three
+Default constructor called
+Default constructor called
+Default constructor called
+Default constructor called
+Default constructor called
+Parametrized constructor called, int value 0 str value Number 0
+Move assignment called, Move to address 0x61fe34
+Destructor called
+Parametrized constructor called, int value 1 str value Number 1
+Move assignment called, Move to address 0x61fe34
+Destructor called
+Parametrized constructor called, int value 2 str value Number 2
+Move assignment called, Move to address 0x61fe34
+Destructor called
+Parametrized constructor called, int value 3 str value Number 3
+Move assignment called, Move to address 0x61fe34
+Destructor called
+Parametrized constructor called, int value 4 str value Number 4
+Move assignment called, Move to address 0x61fe34
+Destructor called
+Print method called, int value 0 str value Number 0
+Print method called, int value 1 str value Number 1
+Print method called, int value 2 str value Number 2
+Print method called, int value 3 str value Number 3
+Print method called, int value 4 str value Number 4
+Copy constructor called, copy to address 0x61fe24
+Print method called, int value 2 str value Two
+Destructor called
+Print method called, int value 2 str value Two
+Parametrized constructor called, int value 0 str value Zero
+Print method called, int value 0 str value Zero
+Parametrized constructor called, int value 4 str value Four
+Parametrized constructor called, int value 42 str value Forty Two
+Move assignment called, Move to address 0x61fd98
+Destructor called
+Print method called, int value 42 str value Forty Two
+Default constructor called
+Copy assignment called, copy to address 0x61fe24
+Default constructor called
+Move assignment called, Move to address 0x61fe1c
+Parametrized constructor called, int value 1 str value Vector 1
+Parametrized constructor called, int value 2 str value Vector 2
+Move constructor called, move to address 0x10417a0
+Destructor called
+Parametrized constructor called, int value 3 str value Vector 3
+Move constructor called, move to address 0x1041c58
+Move constructor called, move to address 0x1041c60
+Destructor called
+Destructor called
+Parametrized constructor called, int value 4 str value Vector 4
+Parametrized constructor called, int value 5 str value Vector 5
+Move constructor called, move to address 0x1041c88
+Move constructor called, move to address 0x1041c90
+Move constructor called, move to address 0x1041c98
+Move constructor called, move to address 0x1041ca0
+Destructor called
+Destructor called
+Destructor called
+Destructor called
+Print method called, int value 1 str value Vector 1
+Print method called, int value 2 str value Vector 2
+Print method called, int value 3 str value Vector 3
+Print method called, int value 4 str value Vector 4
+Print method called, int value 5 str value Vector 5
+Parametrized constructor called, int value 42 str value List 42
+Parametrized constructor called, int value 43 str value List 43
+Parametrized constructor called, int value 44 str value List 44
+Parametrized constructor called, int value 45 str value List 45
+Parametrized constructor called, int value 46 str value List 46
+Parametrized constructor called, int value 47 str value List 47
+Parametrized constructor called, int value 48 str value List 48
+Parametrized constructor called, int value 49 str value List 49
+Parametrized constructor called, int value 50 str value List 50
+Parametrized constructor called, int value 51 str value List 51
+Print method called, int value 42 str value List 42
+Print method called, int value 43 str value List 43
+Print method called, int value 44 str value List 44
+Print method called, int value 45 str value List 45
+Print method called, int value 46 str value List 46
+Print method called, int value 47 str value List 47
+Print method called, int value 48 str value List 48
+Print method called, int value 49 str value List 49
+Print method called, int value 50 str value List 50
+Print method called, int value 51 str value List 51
+Destructor called
+Destructor called
+Destructor called
+Destructor called
+Destructor called
+Destructor called
+Destructor called
+Destructor called
+Destructor called
+Destructor called
+Destructor called
+Destructor called
+Destructor called
+Destructor called
+Destructor called
+Destructor called
+Destructor called
+Destructor called
+Destructor called
+Destructor called
+Destructor called
+Destructor called
+Destructor called
+Destructor called
+Destructor called
+Destructor called
+Destructor called
